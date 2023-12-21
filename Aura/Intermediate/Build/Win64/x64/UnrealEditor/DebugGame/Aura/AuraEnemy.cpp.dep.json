@@ -19,7 +19,8 @@
             "c:\\work\\ue5_topdowngame\\aura\\intermediate\\build\\win64\\unrealeditor\\inc\\aura\\uht\\auracharacterbase.generated.h",
             "c:\\work\\ue5_topdowngame\\aura\\source\\aura\\public\\interaction\\enemyinterface.h",
             "c:\\work\\ue5_topdowngame\\aura\\intermediate\\build\\win64\\unrealeditor\\inc\\aura\\uht\\enemyinterface.generated.h",
-            "c:\\work\\ue5_topdowngame\\aura\\intermediate\\build\\win64\\unrealeditor\\inc\\aura\\uht\\auraenemy.generated.h"
+            "c:\\work\\ue5_topdowngame\\aura\\intermediate\\build\\win64\\unrealeditor\\inc\\aura\\uht\\auraenemy.generated.h",
+            "c:\\work\\ue5_topdowngame\\aura\\source\\aura\\aura.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
